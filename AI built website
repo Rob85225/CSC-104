@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring Mars</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            background-color: #fff;
+            padding: 20px;
+            margin: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Exploring Mars</h1>
+        <p>A journey through the Red Planet</p>
+    </header>
+    <nav>
+        <a href="#overview">Overview</a>
+        <a href="#surface">Surface Features</a>
+        <a href="#rovers">Mars Rovers</a>
+    </nav>
+    <section id="overview">
+        <h2>Overview of Mars</h2>
+        <p>Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System after Mercury. It has a thin atmosphere, cold temperatures, and a surface marked by impact craters, volcanoes, valleys, and polar ice caps.</p>
+        <p>Its reddish appearance is due to iron oxide prevalent on its surface.</p>
+    </section>
+    <section id="surface">
+        <h2>Surface Features</h2>
+        <p>Mars has a diverse range of surface features:</p>
+        <ul>
+            <li>Impact craters</li>
+            <li>Volcanoes, including Olympus Mons</li>
+            <li>Valleys like Valles Marineris</li>
+            <li>Polar ice caps made of water and carbon dioxide</li>
+        </ul>
+    </section>
+    <section id="rovers">
+        <h2>Mars Rovers</h2>
+        <p>Several rovers have explored Mars:</p>
+        <ul>
+            <li><strong>Curiosity:</strong> Launched by NASA in 2011, exploring Gale Crater.</li>
+            <li><strong>Perseverance:</strong> Launched in 2020, exploring Jezero Crater to search for signs of ancient life.</li>
+            <li><strong>Opportunity and Spirit:</strong> Both NASA rovers launched in 2003.</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Exploring Mars. All rights reserved.</p>
+    </footer>
+</body>
+</html>
