@@ -1,8 +1,8 @@
 body{
     /* Main body-design, including margin at 0, background color of page blue, text color as black(simple), Font family Times new Roman, Font size set as Large */
     margin:0;
-	background: green;
-	color: black;
+	background: Green;
+	color: Blue;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
@@ -30,6 +30,6 @@ h2{
 p{
     font-family: times new roman, arial;
     margin: auto;
-	color: #00bbbb;
+	color: green;
 	text-shadow:0 0 2px purple;
 	
