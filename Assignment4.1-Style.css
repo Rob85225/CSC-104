@@ -9,7 +9,7 @@ body{
 article{
     padding: 30px;
 }
-/* First statement (Legal Information Institute). Font size xx-large, Font Family- Gothic Medium, Color as White (bold on the blue background), Tried the text shadow option. */
+/*  Font size xx-large, Font Family- Gothic Medium, Color as White (bold on the blue background), Tried the text shadow option. */
 h1{
     
     font-size: xx-large;
@@ -17,7 +17,7 @@ h1{
     color: white;
 	text-shadow:0 0 2px orangered;
 }
-/* Article #, Font family Ariel, Font Size Large, Font Color red, used text shaow again (different color) don't really see a difference, Font family Times. */
+/* Font family Ariel, Font Size Large, Font Color red, used text shaow again (different color) don't really see a difference, Font family Times. */
 h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
@@ -38,8 +38,3 @@ p{
 	color: #00bbbb;
 	text-shadow:0 0 2px purple;
 	
-}
-/* Not sure what this is? */
-a:visited{
-	color: aqua;
-}
