@@ -25,11 +25,6 @@ h2{
 	text-shadow:0 0 2px blue;
 	font-family: times new roman, arial;
 }
-/* Sections- Font family orchid, text shadow, Font family Impact. */
-h3{
-	color: orchid;
-	text-shadow:0 0 2px blue;
-	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 /* paragraph's= all set the same I tried to indent every one like the tab option, but I could not figure it out. I will explore for my final project. Margin's set as auto instead, Font Family color aqua (looks good on the blue background) text shadow.  */
 p{
