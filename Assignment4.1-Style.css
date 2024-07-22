@@ -1,15 +1,15 @@
 body{
     /* Main body-design, including margin at 0, background color of page blue, text color as black(simple), Font family Times new Roman, Font size set as Large */
     margin:0;
-	background: Green;
-	color: Blue;
+	background: green(0, 0, 34);
+	color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
 article{
     padding: 30px;
 }
-/*  Font size xx-large, Font Family- Gothic Medium, Color as White (bold on the blue background), Tried the text shadow option. */
+/* First statement (Legal Information Institute). Font size xx-large, Font Family- Gothic Medium, Color as White (bold on the blue background), Tried the text shadow option. */
 h1{
     
     font-size: xx-large;
@@ -17,19 +17,29 @@ h1{
     color: white;
 	text-shadow:0 0 2px orangered;
 }
-/* Font family Ariel, Font Size Large, Font Color red, used text shaow again (different color) don't really see a difference, Font family Times. */
+/* Article #, Font family Ariel, Font Size Large, Font Color red, used text shaow again (different color) don't really see a difference, Font family Times. */
 h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
 	color: red;
-	text-shadow:0 0 2px white;
+	text-shadow:0 0 2px blue;
 	font-family: times new roman, arial;
 }
+/* Sections- Font family orchid, text shadow, Font family Impact. */
+h3{
+	color: black;
+	text-shadow:0 0 2px blue;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 /* paragraph's= all set the same I tried to indent every one like the tab option, but I could not figure it out. I will explore for my final project. Margin's set as auto instead, Font Family color aqua (looks good on the blue background) text shadow.  */
 p{
     font-family: times new roman, arial;
     margin: auto;
-	color: green;
+	color: #black;
 	text-shadow:0 0 2px purple;
 	
+}
+/* Not sure what this is? */
+a:visited{
+	color: aqua;
+}
