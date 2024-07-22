@@ -1,0 +1,4 @@
+# Created my outline of my Webpage, used simple text and design for the first page.
+# I have also created a .css style sheet for the design.
+# Used a couple place holders for images.
+# Also created the contact me part that will later be a seperate page.
